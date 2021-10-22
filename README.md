@@ -44,7 +44,7 @@ Telethon Based Powerful Telegram Spamming Userbot 😁😁😁
 
 ### ❤️ Get Telethon STRING_SESSION Below :
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AssadAli/TelethonSession) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AssadAli/TelethonSession) ``Telethone``
 
 ## Heroku Deployment ❤️
 
