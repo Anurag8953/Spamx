@@ -1,4 +1,4 @@
-## ❤️ Rocks Spam Bot ❤️
+## ❤️ CUTE X SPAMBOT ❤️
 
 Telethon Based Powerful Telegram Spamming Userbot 😁😁😁
 
